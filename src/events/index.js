@@ -86,25 +86,13 @@ Events.defaultProps = {
   events: [
     {
       id: '1',
-      title: 'Giving-Circle Meetup #1',
-      date: 'Mittwoch, 30.6.2019 @ DigiHub Aachen',
-      link:
-        'https://www.meetup.com/ReactJS-Meetup-Dusseldorf/events/260536218/',
+      title: 'React Meetup Aachen #7',
+      date: 'Mittwoch, 29.5.2019 @ DigiHub Aachen',
+      link: 'https://www.facebook.com/events/432115177552841/',
       content:
-        'Gebe mehr. Mit Speakern Nikolas Chapoupis und Knecht Ruprecht.\n Der Ort um Unternehmern zu helfen und Hilfe zu bekommen.',
+        'Du interessierst dich für React, JavaScript, oder Front-End? Dann komm zum siebten React Meetup in Aachen. Dieses mal mit Talks zu Test Driven Development in React.',
       photo:
-        'https://secure.meetupstatic.com/photos/event/5/f/9/5/highres_465384469.jpeg',
-    },
-    {
-      id: '2',
-      title: 'Giving-Circle Meetup #2',
-      date: 'Freitag, 31.7.2019 @ DigiHub Aachen',
-      link:
-        'https://www.meetup.com/ReactJS-Meetup-Dusseldorf/events/260536218/',
-      content:
-        'Gebe mehr. Mit Jimmy Neutron und Spongebob. Das letzte Treffen war super, lasst uns das wiederholen. Im Digihub Aachen.',
-      photo:
-        'https://secure.meetupstatic.com/photos/event/5/f/9/5/highres_465384469.jpeg',
+        'https://scontent-frx5-1.xx.fbcdn.net/v/t1.0-9/59857141_351866122200837_6883067343929344_o.jpg?_nc_cat=111&_nc_ht=scontent-frx5-1.xx&oh=1faea51f93c7276791562c4a1f9ae8da&oe=5D67CFBE',
     },
   ],
 };
