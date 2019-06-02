@@ -41,6 +41,11 @@ const inputs = [
     required: true,
   },
   {
+    label: 'Anzahl der Angestellten',
+    name: 'number-of-employees',
+    required: true,
+  },
+  {
     autoComplete: 'address-level2',
     label: 'Stadt',
     name: 'city',

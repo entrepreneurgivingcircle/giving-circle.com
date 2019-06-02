@@ -86,13 +86,13 @@ Events.defaultProps = {
   events: [
     {
       id: '1',
-      title: 'React Meetup Aachen #7',
-      date: 'Mittwoch, 29.5.2019 @ DigiHub Aachen',
-      link: 'https://www.facebook.com/events/432115177552841/',
+      title: 'Entrepreneur Giving Circle Meetup Aachen #1',
+      date: 'Mon, 24.6.2019 - 19:00 @ DigiHub Aachen',
+      link: 'http://meetu.ps/e/GN9x3/zy89Z/f',
       content:
-        'Du interessierst dich für React, JavaScript, oder Front-End? Dann komm zum siebten React Meetup in Aachen. Dieses mal mit Talks zu Test Driven Development in React.',
+        'Nach einer kurzen Vorstellungsrunde hat jeder 5 Minuten Zeit, um von seinen aktuellen Herausforderungen zu erzählen. Während diesen 5 Minuten kann sich der Rest der Gruppe melden und sagen wobei derjenige helfen kann.',
       photo:
-        'https://scontent-frx5-1.xx.fbcdn.net/v/t1.0-9/59857141_351866122200837_6883067343929344_o.jpg?_nc_cat=111&_nc_ht=scontent-frx5-1.xx&oh=1faea51f93c7276791562c4a1f9ae8da&oe=5D67CFBE',
+        'https://secure.meetupstatic.com/photos/event/e/9/f/b/highres_481499899.jpeg',
     },
   ],
 };
