@@ -55,6 +55,7 @@ const inputs = [
     label: 'LinkedIn Profil URL',
     name: 'linked-in',
     type: 'url',
+    required: true,
   },
 ];
 
