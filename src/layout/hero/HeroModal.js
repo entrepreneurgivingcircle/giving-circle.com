@@ -34,6 +34,7 @@ const inputs = [
     autoComplete: 'organization',
     label: 'Firma',
     name: 'company',
+    required: true,
   },
   {
     label: 'Position',
@@ -56,6 +57,11 @@ const inputs = [
     name: 'linked-in',
     type: 'url',
     required: true,
+  },
+  {
+    label: 'Erzähle kurz woran du arbeitest',
+    name: 'current-work',
+    multiline: true,
   },
 ];
 
