@@ -61,7 +61,6 @@ const inputs = [
   {
     label: 'Erzähle kurz woran du arbeitest',
     name: 'current-work',
-    multiline: true,
   },
 ];
 
