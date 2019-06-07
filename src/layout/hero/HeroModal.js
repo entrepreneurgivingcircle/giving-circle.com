@@ -58,10 +58,6 @@ const inputs = [
     type: 'url',
     required: true,
   },
-  {
-    label: 'Erzähle kurz woran du arbeitest',
-    name: 'current-work',
-  },
 ];
 
 function HeroModal({ classes, onClick, open }) {
