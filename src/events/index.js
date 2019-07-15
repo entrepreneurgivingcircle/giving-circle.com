@@ -86,8 +86,8 @@ Events.defaultProps = {
   events: [
     {
       id: '1',
-      title: 'Entrepreneur Giving Circle Meetup Aachen #1',
-      date: 'Mon, 24.6.2019 - 19:00 @ DigiHub Aachen',
+      title: 'Entrepreneur Giving Circle Meetup Aachen #2',
+      date: 'Mon, 22.7.2019 - 19:00 @ DigiHub Aachen',
       link: 'http://meetu.ps/e/GN9x3/zy89Z/f',
       content:
         'Nach einer kurzen Vorstellungsrunde hat jeder 5 Minuten Zeit, um von seinen aktuellen Herausforderungen zu erzählen. Während diesen 5 Minuten kann sich der Rest der Gruppe melden und sagen wobei derjenige helfen kann.',

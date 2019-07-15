@@ -66,6 +66,7 @@ function HeroModal({ classes, onClick, open }) {
       <DialogTitle id="form-dialog-title">{strings.appTitle}</DialogTitle>
       <DialogContent>
         <DialogContentText>{strings.modalInstructions}</DialogContentText>
+        <DialogContentText>{strings.rules}</DialogContentText>
         <Grid container spacing={2} direction="column" alignContent="center">
           <form
             className={classes.form}
